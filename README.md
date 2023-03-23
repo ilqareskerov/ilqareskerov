@@ -12,7 +12,7 @@
 <a href="https://twitter.com/ilqar2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ilqar2020" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ilqar-eskerov-190846228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilqar-eskerov-190846228" height="30" width="40" /></a>
 <a href="https://instagram.com/iilqarrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iilqarrr" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ilqar_eskerov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ilqar_eskerov" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ilqar_eskerov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ilqar_eskerov" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
