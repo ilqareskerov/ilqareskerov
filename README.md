@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilqareskerov&label=Profile%20views&color=0e75b6&style=flat" alt="ilqareskerov" /> </p>
 
-- 🌱 I’m currently learning **Java(Spring) and Flutter**
+- 🌱 I’m currently learning **Java(Spring) Flutter**
 
 - 📫 How to reach me **ilqar.eskerov@mail.ru**
-
+<img align=right alt="programming" width=400 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0wgE4FLqfLezfvlXai3MVp&ust=1679700066223000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOjot7-Y8_0CFQAAAAAdAAAAABAE">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ilqar2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ilqar2020" height="30" width="40" /></a>
