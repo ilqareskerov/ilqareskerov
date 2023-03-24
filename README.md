@@ -1,4 +1,5 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Ilqar Eskerov</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 <h3 align="center">I am Developer</h3>
 <h3 align="center">🌱 I’m currently learning Java(Spring) and Flutter</h3>
 <h3 align="center">📫 How to reach me ilqar.eskerov@mail.ru</h3>
